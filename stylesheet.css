@@ -95,6 +95,7 @@ img.logonya {
   font-size: 28px;
   padding-bottom : 15px;
   margin-bottom : 50px;
+  margin-top: 20px;
 }
 
 .footer1 {
@@ -119,4 +120,50 @@ img.logonya {
   font-size: 24px;
   margin-top: 0px;
   color : white;
+}
+
+/* Main tambahahan */
+
+
+.contentss {
+  height: 500px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.section-titlee {
+  font-size:30px;
+  color:#7BED9F;
+	border-bottom: 2px solid #7BED9F;
+  padding-bottom: 5px;
+  padding-left:15px;
+  padding-right:15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+.contents-itemm {
+  float:left;
+  margin-right: 0 auto;
+  width: 33.3%;
+}
+
+.contents-itemm img {
+  width: 70%;
+  margin-bottom: 25px;
+}
+
+.contents-itemm h6 {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.contents-itemm p {
+  width: 40%;
+  display: inline-block;
+  margin-top:5px;
+  font-size:15px;
+  border-bottom: 20px solid white;
 }
