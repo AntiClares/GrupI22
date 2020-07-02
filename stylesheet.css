@@ -17,7 +17,7 @@ li {
 /* Ketik code Anda dibawah */
 .header {
   height: 85px;
-  width: 1200px;
+  width: 1304px;
   color: #fffff;
   float: left;
   background-color: #2ED573;
@@ -46,8 +46,8 @@ li {
 }
 
 img.logonya {
-    width: 640px;
-    height: 304px;
+    width: 540px;
+    height: 254px;
     float: right;
     margin-top: -25px;
 }
@@ -60,8 +60,61 @@ img.logonya {
 }
 
 .main {
-    width: 1200px;
+    width: 1304px;
     background-color: #7BED9F;
     padding-top: 195px;
     padding-bottom: 185px;
+}
+
+/* foter css */
+
+.footer1 h3 {
+  color: #2ED573;
+}
+
+.contents-item {
+  margin-right: 10px;
+  padding-bottom : 15px;
+  margin-bottom : 50px;
+  padding-left: 75px;
+  float: left;
+}
+
+.contents-item p {
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.contents-item img {
+  width:160px;
+  height:80px;
+}
+
+.section-title {
+  border-bottom: 2px solid #2ED573;
+  font-size: 28px;
+  padding-bottom : 15px;
+  margin-bottom : 50px;
+}
+
+.footer1 {
+  height: 200px;
+  padding-top: 20px;
+  padding-bottom: 140px;
+  background-color: #DFE4EA;
+  text-align: center;
+}
+
+.footer2 {
+  height: 10px;
+  margin: auto;
+  padding-bottom: 60px;
+  background-color: #2ED573;
+  text-align: center;
+}
+
+.footer2 p {
+  font-size: 24px;
+  margin-top: 0px;
+  color : white;
 }
